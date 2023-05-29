@@ -1,0 +1,8 @@
+D:\Project\ZGSix\ZhqSystem\Thread\Thread\Thread\obj\Debug\ThreadTest.csproj.AssemblyReference.cache
+D:\Project\ZGSix\ZhqSystem\Thread\Thread\Thread\obj\Debug\ThreadTest.csproj.SuggestedBindingRedirects.cache
+D:\Project\ZGSix\ZhqSystem\Thread\Thread\Thread\obj\Debug\ThreadTest.csproj.CoreCompileInputs.cache
+D:\Project\ZGSix\ZhqSystem\Thread\Thread\Thread\bin\Debug\Thread.exe.config
+D:\Project\ZGSix\ZhqSystem\Thread\Thread\Thread\bin\Debug\Thread.exe
+D:\Project\ZGSix\ZhqSystem\Thread\Thread\Thread\bin\Debug\Thread.pdb
+D:\Project\ZGSix\ZhqSystem\Thread\Thread\Thread\obj\Debug\Thread.exe
+D:\Project\ZGSix\ZhqSystem\Thread\Thread\Thread\obj\Debug\Thread.pdb
